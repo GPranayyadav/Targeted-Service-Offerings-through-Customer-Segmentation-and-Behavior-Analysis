@@ -6,6 +6,9 @@ Objective: Segment customers based on buying behavior using K-means clustering t
 Data Source: Wholesale Customers Dataset
 Method: Applied K-means clustering and the Elbow method to determine three customer segments.
 Analysis: Segments 1 and 2 show growth potential, while Segment 3 is saturated. Key strategy: Focus on increasing sales in Segments 1 and 2 through competitive positioning and targeted marketing.
+
+
+
 Topic 2: 80/20 Rule Application
 
 Objective: Identify top 20% of customers, products, and geographic locations driving 80% of sales revenue.
